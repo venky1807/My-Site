@@ -1,0 +1,116 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 2rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top-container {
+  background: #EAF6F6;
+  padding-top: 50px;
+}
+
+.profile-data {
+  color: #40514E;
+  width: 50%;
+  margin: 10px auto 50px auto;
+}
+
+.profile-picture {
+  width: 12%;
+  padding-top: 50px;
+}
+
+.top-cloud {
+  position: relative;
+  left: 380px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+}
+
+.picture-computer {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.picture-player {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill-data {
+  line-height: 2;
+}
+
+.line {
+  color: #b8b0b0;
+  border-style: none;
+  width: 5%;
+  border-top-style: dotted;
+  border-width: 8px;
+  margin: 80px auto 80px auto;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 130px;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.copy-right {
+  color: #EAF6F6;
+  margin-top: 80px;
+  font-size: 12px;
+}
+
+.footer-link {
+  color: #11999E;
+  position: relative;
+  top: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+  }
+
+.contact-me {
+  line-height: 2;
+}
+
+.btn {
+   margin: 20px auto 20px auto;
+   text-decoration: none;
+   padding: 10px;
+   background-color: #52616b;
+   border-radius: 10px;
+   color: white;
+}
